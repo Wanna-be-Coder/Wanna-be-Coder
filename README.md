@@ -8,7 +8,7 @@ I have been working in the development realm for 5 years and touched on almost e
 
 * 🌍  I'm based in Bangladesh
 * ✉️  You can contact me at [saminsharar2@gmail.com](mailto:saminsharar2@gmail.com)
-* 🧠  I'm learning GO lang
+* 🧠  I'm working on Svelte currently
 * ⚡  I follow a simple method in life it's either 0 or 100
 
 ### Skills
