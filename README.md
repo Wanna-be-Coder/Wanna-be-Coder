@@ -32,11 +32,11 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Wanna-be-Coder&show_icons=true&hide_border=true&bg_color=0a0a0f&title_color=e94560&text_color=ffffff&icon_color=e94560&count_private=true" width="420"/>
 
-**Senior Software Engineer** with **6+ years** of experience crafting high-scale web applications across fintech, e-commerce, hotel/hospitality, and SaaS domains.
+**Tech Enthusiast** with **6+ years** of experience crafting high-scale web applications across fintech, e-commerce, hotel/hospitality, and SaaS domains.
 
-- 🌍 &nbsp;Based in **Mirpur, Dhaka, Bangladesh**
+- 🌍 &nbsp;Based in **Dhaka, Bangladesh**
 - 🔭 &nbsp;Currently wielding **SvelteKit** & **Next.js**
-- ⚔️ &nbsp;Led teams as **Scrum Master** & **Senior Engineer**
+- ⚔️ &nbsp;Led teams as **Scrum Master** & **Tech Enthusiast**
 - 🏆 &nbsp;Certified **Google UX Designer** (2023)
 - 🌐 &nbsp;Portfolio → **[samin.me](https://www.samin.me)**
 - ✉️ &nbsp;**[saminsharar2@gmail.com](mailto:saminsharar2@gmail.com)**
