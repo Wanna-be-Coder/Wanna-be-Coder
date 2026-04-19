@@ -199,7 +199,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Wanna-be-Coder&hide_border=true&background=0a0a0f&stroke=e94560&ring=e94560&fire=e94560&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=a0a0b0&dates=a0a0b0" width="480"/>
+<img src="https://streak-stats.demolab.com?user=Wanna-be-Coder&hide_border=true&background=0a0a0f&stroke=e94560&ring=e94560&fire=e94560&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=a0a0b0&dates=a0a0b0" width="480"/>
 
 <br/><br/>
 
@@ -215,7 +215,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Wanna-be-Coder&theme=radical&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Wanna-be-Coder&theme=radical&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4"/>
 
 </div>
 
