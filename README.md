@@ -211,17 +211,6 @@
 
 ---
 
-## 🏆 ACHIEVEMENTS
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Wanna-be-Coder&theme=radical&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4"/>
-
-</div>
-
-<br/>
-
----
 
 ## ◆ MISSION BOARD — SEND A MESSAGE
 
